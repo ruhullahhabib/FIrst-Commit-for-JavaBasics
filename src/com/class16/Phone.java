@@ -9,6 +9,8 @@ public class Phone {
 	
 	public static void main(String[] args) {
 		
+		//attributes
+		
 		Phone phone1 = new Phone();
 		
 		phone1.brand= "Apple";
@@ -49,6 +51,7 @@ public class Phone {
 		
 
 	}
+	//behaviors
 	
 	void canText() {
 		System.out.println(brand+ " has unlimited text");
