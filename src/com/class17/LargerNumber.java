@@ -18,6 +18,7 @@ public class LargerNumber {
 		}else {
 			System.out.println(b+ " is larger than " +a);
 		}
+			
 	}
 
 }
