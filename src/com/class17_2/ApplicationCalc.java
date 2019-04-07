@@ -23,6 +23,8 @@ public class ApplicationCalc {
 
 	}
 	
+	//should be a verb
+	
 	void example() {
 		System.out.println("no parameters/no return values");
 		

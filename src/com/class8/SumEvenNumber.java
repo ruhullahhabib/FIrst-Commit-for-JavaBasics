@@ -7,7 +7,7 @@ public class SumEvenNumber {
 		
 		int sum = 0;
 		
-		for (int i =0; i<=100; i+=2) {
+		for (int i =0; i<=5; i++) {
 			
 			sum = sum + i;
 			
