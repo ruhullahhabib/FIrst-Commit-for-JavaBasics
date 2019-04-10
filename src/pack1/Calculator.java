@@ -7,7 +7,7 @@ public class Calculator {
 	}
 	
 	int avg (int a, int b, int c) {
-		return(a+b+c/3);
+		return(a+b+c)/3;
 	}
 	
 	int min (int a, int b, int c) {
@@ -35,7 +35,7 @@ public class Calculator {
 			
 		}
 		
-		if (c>b) {
+		if (c>max) {
 			max = c;
 		}
 		

@@ -8,7 +8,7 @@ public class Palindrome {
 		
 		Palindrome obj = new Palindrome();
 		
-		obj.palin("jason");
+		obj.palin("racecar");
 
 	}
 	
