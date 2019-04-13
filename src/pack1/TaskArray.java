@@ -11,6 +11,9 @@ public class TaskArray {
 		
 		for (int i= 0; i<array.length;i++) {
 			
+			//or for(String x:array) { 
+			//}
+			
 			System.out.println(array[i]);
 			
 		}
