@@ -6,8 +6,6 @@ public class TestTaskCon {
 		
 		TaskCon obj = new TaskCon("Benz");
 		
-		obj.
-		
 
 	}
 

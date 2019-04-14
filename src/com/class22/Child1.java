@@ -12,7 +12,7 @@ public class Child1 extends ParentExtends{
 		childObj.sing();
 		
 		ParentExtends parentObject = new ParentExtends();
-		//parentObject.hairType _> not accessible in Parent Class
+		//parentObject.hairType -> not accessible in Parent Class
 		
 
 	}
